@@ -8,6 +8,5 @@
   "scripts": [
     "index.js"
   ],
-  "license": "MIT",
-  "repo": "https://github.com/virtru-components/x2js"
+  "license": "MIT"
 }
